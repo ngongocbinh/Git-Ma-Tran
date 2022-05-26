@@ -11,6 +11,7 @@ void nhapMaTran(int a[3][3])
         }
     }
 }
+// Tất yêu Hà
 void XuatMaTran(int a[3][3])
 {
     for(int i = 0;i<3; i++)
